@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "local_data_store"
 version = "0.0.5"
 authors = [
-  { name="Mochigoz", email="mochigoz@hotmail.com" },
+  { name="Mathys Ponchaut", email="mathys.ponchaut@gmail.com" },
 ]
 description = "A small package to store data in local"
 readme = "README.md"
@@ -20,5 +20,5 @@ license = "MIT"
     license-files = ["LICENSE.md"]
 
 [project.urls]
-Homepage = "https://github.com/Mochigoz/local_data_store"
-Issues = "https://github.com/Mochigoz/local_data_store/issues"
+Homepage = "https://github.com/mathys-ponchaut/local_data_store"
+Issues = "https://github.com/mathys-ponchaut/local_data_store/issues"
